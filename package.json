@@ -1,0 +1,7 @@
+﻿{
+  "name": "web-storefront",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": { "build": "tsc", "test": "vitest run" }
+}
+
